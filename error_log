@@ -1,0 +1,2 @@
+[08-Aug-2024 08:16:22 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Http\Request" not found in /home/rljjbe0ydf31/public_html/Printsmy_Backend/app/Http/Controllers/DesignController.php on line 15
+[08-Aug-2024 08:16:33 UTC] PHP Fatal error:  Trait "App\Http\Controllers\Illuminate\Http\Request" not found in /home/rljjbe0ydf31/public_html/Printsmy_Backend/app/Http/Controllers/DesignController.php on line 15
